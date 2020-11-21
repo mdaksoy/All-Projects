@@ -20,6 +20,6 @@ while (True):
     print (lastplus)
 
     if x == y:
-        print ("You have 1 min to copy")
+        print ("Kopyalamak İçin 1 Dakikanız Var")
         time.sleep(60)
         break
